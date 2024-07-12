@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To-App</string>
+    <string-array name="quantity_array">
+        <item>Open</item>
+        <item>Complete</item>
+    </string-array>
+</resources>
